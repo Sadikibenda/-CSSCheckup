@@ -1,0 +1,28 @@
+.title {
+    position: fixed;
+    width: 200px;
+    right: 20px;
+    top: 10px;
+    background-color: lightgray;
+    border: 2px solid rgb(68, 66, 66);
+    padding: 10px;
+    padding-top: 1px;
+    height: px;
+}
+
+body {
+    padding: 20px;
+    background-color: #E4D4D4;
+}
+
+h2 {
+    font-family: cursive;
+    border: 2px solid rgb(68, 66, 66);
+    width: 30%;
+    padding-left: 80px;
+    background-color: #BC8585;
+}
+
+.short {
+    width: 75%;
+}
